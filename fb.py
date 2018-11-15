@@ -24,7 +24,7 @@ you Look familir !! :)
 +===============================+
 
 '''
-email = str(raw_input(red+"[+]:Enter |Email| |Phone number| |Profile ID number| |Username|#~:"))
+email = str(raw_input(red+"[+]:Enter Email #~:"))
 passwordlist = str(raw_input(red+"[+]:Enter the name of the password list file#~:"))
 
 useragents = [('User-agent',
